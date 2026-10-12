@@ -1,4 +1,4 @@
-# 1 - Data Modeling and Design <!-- omit in toc -->
+# 2 - Data Modeling and Design <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
