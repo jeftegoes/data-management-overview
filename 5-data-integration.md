@@ -96,15 +96,17 @@
 - **Cons**
   - Cost
 
-# 5. ETL
+# 5. ETL vs ELT
+
+## 5.1. ETL
 
 ![ETL Process](/images/etl-process.png)
 
-# 6. ELT
+## 5.2. ELT
 
-TODO: DIAGRAM
+![ELT Process](/images/elt-process.png)
 
-# 7. ETL vs ELT
+## 5.3. Pros
 
 - **Pros of ETL**
   - **Compliance: ** ETLis better for compliance with GDPR, HIPAA, CCPA.
@@ -115,7 +117,7 @@ TODO: DIAGRAM
   - **Speed:** Data available in Data Warehouse faster since no transformation layer.
   - **Cost:** Only cloud-based platforms needed at lower cost, on-premise ETL processes require expensive hardware.
 
-# 8. Data Integration Tools
+# 6. Data Integration Tools
 
 - **On-premise tools**
   - Oracle Data Service Integrator.
@@ -128,7 +130,7 @@ TODO: DIAGRAM
   - Talend Open Studio.
   - Tibco Jaspersoft.
 
-# 9. Data Integration Best Practices
+# 7. Data Integration Best Practices
 
 1. Identify your business needs first
 2. Include internal business expert in the data integration team

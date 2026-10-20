@@ -1,4 +1,4 @@
-# DataManagement overview <!-- omit in toc -->
+# Data Management overview <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
@@ -9,6 +9,7 @@
 - [4. Data Management Principles](#4-data-management-principles)
   - [4.1. Summary Table](#41-summary-table)
 - [5. The DAMA-DMBOK Framework](#5-the-dama-dmbok-framework)
+  - [5.1. DMBOK pyramid by Peter Aiken](#51-dmbok-pyramid-by-peter-aiken)
 - [6. Data Ethics](#6-data-ethics)
   - [6.1. Essential Concepts](#61-essential-concepts)
     - [6.1.1. Ethical Principles for Data](#611-ethical-principles-for-data)
@@ -106,6 +107,10 @@
   ![The Dama Wheel](images/the-dama-wheel.png)
 - **DAMA Environmental Factor Hexagon**
   ![DAMA Environmental Factor Hexagon](images/dama-environmental-factor-hexagon.png)
+
+## 5.1. DMBOK pyramid by Peter Aiken
+
+![DMBOK pyramid by Peter Aiken](/images/dmbok-pyramid-peter-aiken.png)
 
 # 6. Data Ethics
 
