@@ -1,0 +1,19 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="GCdsQQBqwWqUOb2p0JZV">
+    <mxGraphModel dx="1224" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GU73b0Jrjj5rBTumEoS4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;align=left;strokeColor=#b85450;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;What does it mean?&lt;/li&gt;&lt;li&gt;Who owns it?&lt;/li&gt;&lt;li&gt;What does it contain?&lt;/li&gt;&lt;li&gt;When was it published?&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="220" width="220" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GU73b0Jrjj5rBTumEoS4-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;align=left;strokeColor=#6c8ebf;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;How does it relate to other data sets?&lt;/li&gt;&lt;li&gt;How is it organized?&lt;/li&gt;&lt;li&gt;What is the key?&lt;/li&gt;&lt;li&gt;Is it sorted?&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="220" width="220" x="540" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GU73b0Jrjj5rBTumEoS4-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;align=left;strokeColor=#82b366;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;When was it created, modified, or archived?&lt;/li&gt;&lt;li&gt;Who can access it?&lt;/li&gt;&lt;li&gt;How large is it?&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="220" width="220" x="440" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

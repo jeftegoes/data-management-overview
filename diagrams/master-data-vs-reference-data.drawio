@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="C_Py9TIrCR9lqypgPXr5">
+    <mxGraphModel dx="1224" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-1" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="403" width="560" x="270" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-2" parent="gpzMN6f0rvwPT1tEwARf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="20" width="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-3" parent="gpzMN6f0rvwPT1tEwARf-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Comparison&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="100" as="geometry">
+            <mxRectangle height="20" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-4" parent="gpzMN6f0rvwPT1tEwARf-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Master Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="100" as="geometry">
+            <mxRectangle height="20" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-5" parent="gpzMN6f0rvwPT1tEwARf-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Reference Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="220" x="340" as="geometry">
+            <mxRectangle height="20" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-6" parent="gpzMN6f0rvwPT1tEwARf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="127" width="560" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-7" parent="gpzMN6f0rvwPT1tEwARf-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Main purpose&lt;/span&gt;" vertex="1">
+          <mxGeometry height="127" width="100" as="geometry">
+            <mxRectangle height="127" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-8" parent="gpzMN6f0rvwPT1tEwARf-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Represents the business objects which&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;contain the most valuable, agreed upon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;information&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;shared across the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;organization&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="240" x="100" as="geometry">
+            <mxRectangle height="127" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-9" parent="gpzMN6f0rvwPT1tEwARf-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Data that defines the set of permissible&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;values to be used by other data fields&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="220" x="340" as="geometry">
+            <mxRectangle height="127" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-10" parent="gpzMN6f0rvwPT1tEwARf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="127" width="560" y="147" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-11" parent="gpzMN6f0rvwPT1tEwARf-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="More on usage&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="100" as="geometry">
+            <mxRectangle height="127" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-12" parent="gpzMN6f0rvwPT1tEwARf-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Master data is the data shared by multiple&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;systems, applications, processes in the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;organization&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="240" x="100" as="geometry">
+            <mxRectangle height="127" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-13" parent="gpzMN6f0rvwPT1tEwARf-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Reference data is a type of master data&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;that is used by other data fields&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="220" x="340" as="geometry">
+            <mxRectangle height="127" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-14" parent="gpzMN6f0rvwPT1tEwARf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="129" width="560" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-15" parent="gpzMN6f0rvwPT1tEwARf-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="Examples" vertex="1">
+          <mxGeometry height="129" width="100" as="geometry">
+            <mxRectangle height="129" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-16" parent="gpzMN6f0rvwPT1tEwARf-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Customer information - names,&amp;nbsp;&lt;/span&gt;phone numbers and addresses&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Product information - product&amp;nbsp;&lt;/span&gt;name and location&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Partner data - partner name and&amp;nbsp;&lt;/span&gt;address&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="129" width="240" x="100" as="geometry">
+            <mxRectangle height="129" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpzMN6f0rvwPT1tEwARf-17" parent="gpzMN6f0rvwPT1tEwARf-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed conversion rates - weight,&amp;nbsp;&lt;/span&gt;temperature, length, etc&lt;/li&gt;&lt;li&gt;Currency codes&lt;/li&gt;&lt;li&gt;Language codes&lt;/li&gt;&lt;li&gt;Customer Segments&lt;/li&gt;&lt;li&gt;Cost centers&lt;/li&gt;&lt;li&gt;Postal code Units of measurement&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="129" width="220" x="340" as="geometry">
+            <mxRectangle height="129" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

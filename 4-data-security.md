@@ -1,7 +1,8 @@
-# 4 - Data Security <!-- omit in toc -->
-
+ 4 - Data Security <!-- omit in toc -->
+#
 ## Contents <!-- omit in toc -->
 
+- [](#)
 - [1. What is Data Security](#1-what-is-data-security)
   - [1.1. Why is Data Security important](#11-why-is-data-security-important)
 - [2. The Goals of Data Security](#2-the-goals-of-data-security)
@@ -32,7 +33,7 @@ What is Data Security
 - The average cost of a mega-breach of 50 to 60 million records in 2024 is $375 million, a $43 million increase from 2023 (IBM).
 - Annually, hospitals spend 64 percent more on advertising the two years following a breach (American Journal of Managed Care).
 - Phishing remains one of the most expensive initial attack vectors, averaging $4.8 million per breach (IBM).
-- Organizations with poor regulatory compliance face higher breach costs – averaging roughly $4.62 million per incident (IBM).
+- Organizations with poor regulatory compliance face higher breach costs - averaging roughly $4.62 million per incident (IBM).
 - [Source](https://www.varonis.com/blog/data-breach-statistics)
 
 # 2. The Goals of Data Security

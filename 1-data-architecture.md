@@ -54,7 +54,7 @@
 
 - _Designing for consistency and control._
 - **Core Idea**
-  - All enterprise data managed in a single unified environment – one source of truth
+  - All enterprise data managed in a single unified environment - one source of truth
 - **Key Features**
   - Central data warehouse or hub.
   - Standardized models &-metadata.

@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="giLyaZUA9DIci9Gv1eS6">
+    <mxGraphModel dx="1224" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-1" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="234" width="620" x="240" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-2" parent="-gDxfpwMXbxfKqD7jVbZ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="47" width="620" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-3" parent="-gDxfpwMXbxfKqD7jVbZ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="Comparison" vertex="1">
+          <mxGeometry height="47" width="120" as="geometry">
+            <mxRectangle height="47" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-4" parent="-gDxfpwMXbxfKqD7jVbZ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Document Management&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;System (DMS)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="260" x="120" as="geometry">
+            <mxRectangle height="47" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-5" parent="-gDxfpwMXbxfKqD7jVbZ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Enterprise Content&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Management System (ECMS)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="240" x="380" as="geometry">
+            <mxRectangle height="47" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-6" parent="-gDxfpwMXbxfKqD7jVbZ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="46" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-7" parent="-gDxfpwMXbxfKqD7jVbZ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Type of Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="120" as="geometry">
+            <mxRectangle height="46" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-8" parent="-gDxfpwMXbxfKqD7jVbZ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Structured data in traditional formats&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Word, PDF, PowerPoint, Excel, etc)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="260" x="120" as="geometry">
+            <mxRectangle height="46" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-9" parent="-gDxfpwMXbxfKqD7jVbZ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="Structured + unstructured data such as images, audito, video files, HTML, etc" vertex="1">
+          <mxGeometry height="46" width="240" x="380" as="geometry">
+            <mxRectangle height="46" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-10" parent="-gDxfpwMXbxfKqD7jVbZ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="47" width="620" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-11" parent="-gDxfpwMXbxfKqD7jVbZ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Main purpose&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="120" as="geometry">
+            <mxRectangle height="47" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-12" parent="-gDxfpwMXbxfKqD7jVbZ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Workflow management and regulatory&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compliance&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="260" x="120" as="geometry">
+            <mxRectangle height="47" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-13" parent="-gDxfpwMXbxfKqD7jVbZ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;Storage, retrieval and publishing of&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;content&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="240" x="380" as="geometry">
+            <mxRectangle height="47" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-18" parent="-gDxfpwMXbxfKqD7jVbZ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="47" width="620" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-19" parent="-gDxfpwMXbxfKqD7jVbZ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Key difference&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="120" as="geometry">
+            <mxRectangle height="47" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-20" parent="-gDxfpwMXbxfKqD7jVbZ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;DMS is a software&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="260" x="120" as="geometry">
+            <mxRectangle height="47" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-21" parent="-gDxfpwMXbxfKqD7jVbZ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;ECM is a set of tools and processes.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ECM is a broader version of DMS&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="240" x="380" as="geometry">
+            <mxRectangle height="47" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-14" parent="-gDxfpwMXbxfKqD7jVbZ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1">
+          <mxGeometry height="47" width="620" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-15" parent="-gDxfpwMXbxfKqD7jVbZ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Company size&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="120" as="geometry">
+            <mxRectangle height="47" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-16" parent="-gDxfpwMXbxfKqD7jVbZ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;DMS only solution can work well for&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;small companies&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="260" x="120" as="geometry">
+            <mxRectangle height="47" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gDxfpwMXbxfKqD7jVbZ-17" parent="-gDxfpwMXbxfKqD7jVbZ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;ECM solution needed in bigger&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;organizations&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47" width="240" x="380" as="geometry">
+            <mxRectangle height="47" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
